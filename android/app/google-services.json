@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "138867961640",
+    "project_id": "avokadioapp",
+    "storage_bucket": "avokadioapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138867961640:android:6a3f61eaf3f6cc9cc3aa1d",
+        "android_client_info": {
+          "package_name": "com.example.avokadio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138867961640-b2akv8b2cbs8fsuie8001vavkhhm78o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG5hMznOp--qVLADtVGWEpp4fljIBqSO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138867961640-b2akv8b2cbs8fsuie8001vavkhhm78o3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
