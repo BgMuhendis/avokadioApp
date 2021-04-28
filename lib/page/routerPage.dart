@@ -45,10 +45,12 @@ class _RouterPageState extends State<RouterPage> {
   }
 Widget getBottomNavigationBar(){
   return BottomNavigationBar(
-        selectedFontSize: 14.0,
+        unselectedFontSize: 14.0,
         selectedItemColor: AvokadioTheme.background,
         unselectedItemColor: AvokadioTheme.background,
-        currentIndex: _selectedIndex,
+        type: BottomNavigationBarType.fixed,
+        
+
         onTap: _onItemTapped,
         items: [
           BottomNavigationBarItem(

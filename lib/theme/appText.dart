@@ -16,6 +16,7 @@ class AvokadioText extends StatelessWidget {
     return Text(
       text,
       style: TextStyle(
+        
         color: color,
         fontSize: size,
         decoration: TextDecoration.none,
